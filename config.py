@@ -1,29 +1,3 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
-#
-# All rights reserved.
-#
-# This code is the intellectual property of Nand Yaduwanshi.
-# You are not allowed to copy, modify, redistribute, or use this
-# code for commercial or personal projects without explicit permission.
-#
-# Allowed:
-# - Forking for personal learning
-# - Submitting improvements via pull requests
-#
-# Not Allowed:
-# - Claiming this code as your own
-# - Re-uploading without credit or permission
-# - Selling or using commercially
-#
-# Contact for permissions:
-# Email: badboy809075@gmail.com
-
-
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ⚙️ CONFIGURATION FILE | Powered By @WTF_WhyMeeh & @ShrutiBots
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 import os
 import re
 from dotenv import load_dotenv
@@ -39,7 +13,7 @@ API_ID = int(os.getenv("20071630"))
 API_HASH = os.getenv("11d0d49035cfa33964c687e4480fef0d")
 BOT_TOKEN = os.getenv("8465842039:AAGqbIdsFS6ydPutGpO4F10TGpUNLAYKjNo")
 OWNER_ID = int(os.getenv("7748510663", None))
-OWNER_USERNAME = os.getenv("Nothing_0_6", "WTF_WhyMeeh")
+OWNER_USERNAME = os.getenv("Nothing_0_6", "Nothing_0_6")
 BOT_USERNAME = os.getenv("@WANG_LING_ROBOT", "@WANG_LING_ROBOT")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -61,15 +35,15 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔗 Support Links
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━https://github.com/NoxxOP
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
-YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
-DONATE = os.getenv("DONATE", "https://t.me/ShrutiBots/91")
-PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Jawanon_ka_adda")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/JAWANON_KA_ADDA")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://www.instagram.com/_deep_k_0_1_")
+YOUTUBE = os.getenv("YOUTUBE", "https://www.youtube.com/@DARK_GAMER_FF-06")
+GITHUB = os.getenv("GITHUB", " https://github.com/HARUKA06/Jawanon_ka_music")
+DONATE = os.getenv("DONATE", "None")
+PRIVACY_LINK = os.getenv("PRIVACY_LINK", "None")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⏱️ Duration & Playlist Settings
@@ -112,18 +86,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/7q8bfg.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/eehxb4.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/xrnppf.jpg")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/xrnppf.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/xrnppf.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/xrnppf.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/xrnppf.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/xrnppf"
+STREAM_IMG_URL = "https://files.catbox.moe/.jpg4.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/xrnppf.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/xrnppf.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/xrnppf.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/xrnppf.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/xrnppf.jpg"
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔐 User & Bot State Stores
@@ -164,17 +138,17 @@ if SUPPORT_GROUP:
         )
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @WTF_WhyMeeh
+#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @Nothing_0_6
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @HARUKA06  Nand Yaduwanshi
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 Nand JAWANON (aka @HARUKA06)
+# 🔗 GitHub : https://github.com/HARUKA06/Jawanon_ka_music
+# 📢 Telegram Channel : https://t.me/JAWANON_KA_ADDA
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From Jawanon_ka_music 
