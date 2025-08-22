@@ -20,11 +20,11 @@
 # Email: badboy809075@gmail.com
 
 
-from ShrutiMusic.core.bot import Aviax
-from ShrutiMusic.core.dir import dirr
-from ShrutiMusic.core.git import git
-from ShrutiMusic.core.userbot import Userbot
-from ShrutiMusic.misc import dbb, heroku
+from Jawanon_ka_music.core.bot import Aviax
+from Jawanon_ka_music.core.dir import dirr
+from Jawanon_ka_music.core.git import git
+from Jawanon_ka_music.core.userbot import Userbot
+from Jawanon_ka_music.misc import dbb, heroku
 
 from .logging import LOGGER
 
@@ -51,10 +51,9 @@ YouTube = YouTubeAPI()
 # ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# 🔗 GitHub : None
+# 📢 Telegram Channel : https://t.me/Jawanon_ka_adda
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From Jawanon_ka_music 
