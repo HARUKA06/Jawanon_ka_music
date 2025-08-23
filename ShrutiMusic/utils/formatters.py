@@ -185,10 +185,7 @@ formats = [
 ]
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
-
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
 # 🔗 GitHub : https://github.com/HARUKA06/Jawanon_ka_music
 # 📢 Telegram Channel : https://t.me/Jawanon_ka_music
 # ===========================================
