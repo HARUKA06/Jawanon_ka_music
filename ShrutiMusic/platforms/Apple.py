@@ -72,3 +72,11 @@ class AppleAPI:
         return results, playlist_id
 
 
+# ===========================================
+# ©️ 2025 Nand 
+# 🔗 GitHub : https://github.com/HARUKA06/Jawanon_ka_music
+# 📢 Telegram Channel : https://t.me/Jawanon_ka_adda
+# ===========================================
+
+
+# ❤️ Love From Jawanon_ka_music 
