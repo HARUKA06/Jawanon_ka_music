@@ -1,24 +1,3 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
-#
-# All rights reserved.
-#
-# This code is the intellectual property of Nand Yaduwanshi.
-# You are not allowed to copy, modify, redistribute, or use this
-# code for commercial or personal projects without explicit permission.
-#
-# Allowed:
-# - Forking for personal learning
-# - Submitting improvements via pull requests
-#
-# Not Allowed:
-# - Claiming this code as your own
-# - Re-uploading without credit or permission
-# - Selling or using commercially
-#
-# Contact for permissions:
-# Email: badboy809075@gmail.com
-
 
 import asyncio
 import os
@@ -39,9 +18,9 @@ from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQuality
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from ShrutiMusic import LOGGER, YouTube, app
-from ShrutiMusic.misc import db
-from ShrutiMusic.utils.database import (
+from Jawanon_ka_music import LOGGER, YouTube, app
+from Jawanon_ka_music.misc import db
+from Jawanon_ka_music.utils.database import (
     add_active_chat,
     add_active_video_chat,
     get_lang,
@@ -53,11 +32,11 @@ from ShrutiMusic.utils.database import (
     remove_active_video_chat,
     set_loop,
 )
-from ShrutiMusic.utils.exceptions import AssistantErr
-from ShrutiMusic.utils.formatters import check_duration, seconds_to_min, speed_converter
-from ShrutiMusic.utils.inline.play import stream_markup
-from ShrutiMusic.utils.stream.autoclear import auto_clean
-from ShrutiMusic.utils.thumbnails import gen_thumb
+from Jawanon_ka_music.utils.exceptions import AssistantErr
+from Jawanon_ka_music.utils.formatters import check_duration, seconds_to_min, speed_converter
+from Jawanon_ka_music.utils.inline.play import stream_markup
+from Jawanon_ka_music.utils.stream.autoclear import auto_clean
+from Jawanon_ka_music.utils.thumbnails import gen_thumb
 from strings import get_string
 
 autoend = {}
@@ -623,13 +602,13 @@ class Call(PyTgCalls):
 Aviax = Call()
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved -
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 Nand HARUKA06/Jawanon_ka_music
+# 🔗 GitHub : https://github.com/HARUKA06/Jawanon_ka_music
+# 📢 Telegram Channel : https://t.me/Jawanon_ka_adda
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From Jawanon_ka_music
