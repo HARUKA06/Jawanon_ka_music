@@ -1,24 +1,3 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
-#
-# All rights reserved.
-#
-# This code is the intellectual property of Nand Yaduwanshi.
-# You are not allowed to copy, modify, redistribute, or use this
-# code for commercial or personal projects without explicit permission.
-#
-# Allowed:
-# - Forking for personal learning
-# - Submitting improvements via pull requests
-#
-# Not Allowed:
-# - Claiming this code as your own
-# - Re-uploading without credit or permission
-# - Selling or using commercially
-#
-# Contact for permissions:
-# Email: badboy809075@gmail.com
-
 
 import os
 
@@ -42,13 +21,13 @@ def dirr():
     LOGGER(__name__).info("Directories Updated.")
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - 
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 Nand HARUKA06/Jawanon_ka_music
+# 🔗 GitHub : https://github.com/HARUKA06/Jawanon_ka_music
+# 📢 Telegram Channel : https://t.me/Jawanon_ka_adda
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From Jawanon_ka_music
