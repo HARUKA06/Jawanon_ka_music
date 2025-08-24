@@ -177,13 +177,12 @@ class TeleAPI:
         return True
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 Nand 
+# 🔗 GitHub : https://github.com/HARUKA06/Jawanon_ka_music
+# 📢 Telegram Channel : https://t.me/Jawanon_ka_adda
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From Jawanon_ka_music 
