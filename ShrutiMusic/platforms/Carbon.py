@@ -107,3 +107,11 @@ class CarbonAPI:
             return realpath(f.name)
 
 
+# ===========================================
+# ©️ 2025 Nand 
+# 🔗 GitHub : https://github.com/HARUKA06/Jawanon_ka_music
+# 📢 Telegram Channel : https://t.me/Jawanon_ka_adda
+# ===========================================
+
+
+# ❤️ Love From Jawanon_ka_music 
